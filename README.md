@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gitsiba
 - 👀 I’m bioinformatician
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently working as a Project Associate at CDFD
 - 💞️ I’m looking to collaborate on with computational biologist 
 - 📫 How to reach me sibapatnaik15@gmail.com
 - 😄 Pronouns: she/her
