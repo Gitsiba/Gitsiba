@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Siba!
 
 - 🔬 **Bioinformatician** passionate about solving biological problems through computational approaches.
-- 🧬 **Currently** working as a **Project Associate** at **CDFD** (Centre for DNA Fingerprinting and Diagnostics).
+- 🧬 **Currently** working as a **Project Associate-I (Bioinformatics Data Analyst)** at **CDFD** (Centre for DNA Fingerprinting and Diagnostics), since February 2024.
 - 🤝 **Looking to collaborate** with computational biologists, data scientists, and genomics researchers.
 - 📫 **Reach me at:**
   - ✉️ sibapatnaik15@gmail.com
@@ -22,6 +22,14 @@
 
 ---
 
+## 🎖️ Achievements
+
+- Presented Poster at CBC 2025: *"Genomic Insights of Aeluropus lagopoides: A Hybrid Assembly Approach"*
+- Certified in Genomic Data Analysis during Dissertation at CCMB, Hyderabad (June 2023 – December 2023)
+
+---
+
 **Let's connect and create something amazing together! 🚀**
+
 
 
