@@ -2,7 +2,7 @@
 - 👀 I’m bioinformatician
 - 🌱 I’m currently working as a Project Associate at CDFD
 - 💞️ I’m looking to collaborate on with computational biologist 
-- 📫 How to reach me sibapatnaik15@gmail.com
+- 📫 How to reach me sibapatnaik15@gmail.com sibabioinfo2@yahoo.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Biology is a biggest problem solving subject which can solve by bioinformatics
 
