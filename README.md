@@ -32,17 +32,13 @@ Hybrid/de novo genome assembly project for a salt-tolerant grass, including Bion
 ### 2. [ATAC-seq workflow](https://github.com/Gitsiba/ATAC-seq)
 A repository for chromatin-accessibility analysis. The project README should document input requirements, preprocessing, alignment, peak calling, quality control, visualization, and reproducible execution.
 
-### 3. [EXFM Exome for Meds — VCF Research Viewer](https://github.com/Gitsiba/EXFM_exome_for_meds)
-A Python/PyQt desktop interface for exploring VCF records, searching reported variant fields, reviewing caller FILTER values, and exporting filtered research summaries. Includes an experimental Nextflow WES workflow prototype. The application is for research/demo use only and does not provide validated clinical interpretation or treatment recommendations.
-
-### 4. [Genomic Plotter](https://github.com/Gitsiba/genomic_plotter)
+### 3. [Genomic Plotter](https://github.com/Gitsiba/genomic_plotter)
 Python toolkit project focused on reusable, publication-oriented visualizations for genomic and transcriptomic data.
 
-### 5. [Mutation Screening ML](https://github.com/Gitsiba/mutation_screening_ml)
+### 4. [Mutation Screening ML](https://github.com/Gitsiba/mutation_screening_ml)
 Explores an RNA-seq-based cancer mutation-screening workflow using public ENCODE data, with variant analysis and visualization. Any machine-learning claims and results should be supported by documented evaluation.
 
-### 6. [Bioinformatics portfolio](https://github.com/Gitsiba/bioinfo_potforlio)
-A collection of bioinformatics projects and technical work. Use it as a landing page for project summaries, methods, reproducible commands, and results.
+
 
 ---
 
